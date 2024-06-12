@@ -13,4 +13,4 @@ The project milestones include setting up the development environment and initia
 
 AstroPic aims to make astronomy more accessible and engaging by providing stunning daily images of the cosmos along with educational information, fostering a deeper appreciation for astronomy and science.
 
-The packages which is needed i already in the repo, but i would recommend downloading Nuget for installations
+The packages which are essential are already in the repository, but i would recommend downloading Nuget for further installations. 
